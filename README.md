@@ -1,7 +1,7 @@
 # GitHub 关系图谱 (GitHub Relation Graph)
 
 用来看 Github 关注和被关注的关系图的，感觉挺有意思，就无聊 Vibe 的一个桌面应用。
-![](asset\example.png)
+![pic](./asset/example.png)
 ## 快速开始
 
 无环境可以直接去 release 里面下，有环境也可以自行构建
